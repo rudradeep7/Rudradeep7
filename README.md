@@ -83,7 +83,7 @@
  </br>
  <h2 align="left">🤝🏻 Connect with Me </h2>
  
- [![LinkedIn](https://img.shields.io/badge/Rudradeep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Deepparmarrudra-412667215/)
+ [![LinkedIn](https://img.shields.io/badge/Rudradeep-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-parmar-rudra-715857185/)
  </br>
  [![Gmail](https://img.shields.io/badge/deepparmarrudra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
  <h2 align="center">My Resume📄</h2>
