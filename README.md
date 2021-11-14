@@ -26,8 +26,8 @@
 <b>Technologies :</b> C <br>
 <b>Project Difficulties level :</b> Advance
 <br>
-<br>
-
+<br/>
+<h2 align="center"></h2>
 <a href="https://github.com/rudradeep7/Sqlite_database"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=Sqlite_database&theme=algolia"></a>
 <h3 align = "left"><b>02.</b> Sqlite_database</h3>
 <h4> <i> Keywords : SqLite Database, Android, Java</i></h4>
