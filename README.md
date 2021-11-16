@@ -49,13 +49,14 @@
 ![Relative date](https://img.shields.io/date/1635386951?color=5B798A) 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rudradeep7&theme=flat)  
+  
 &nbsp;  
-<a href="https://github.com/rudradeep7/rudradeep7"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradeep7&layout=compact&theme=vue-dark"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/rudradeep7/rudradeep7"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=rudradeep7&show_icons=true&theme=vue-dark"></a>
+<a href="https://github.com/rudradeep7/rudradeep7"><img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudradeep7&include_all_commits=true&border_color=2e4058"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/rudradeep7/rudradeep7"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=rudradeep7&show_icons=true&include_all_commits=true&border_color=2e4058"></a>
 </br></br>
-<a href="https://github.com/rudradeep7/rudradeep7"><img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudradeep7&theme=vue-dark"></a>
+<a href="https://github.com/rudradeep7/rudradeep7"><img align="left" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=rudradeep7&include_all_commits=true&border_color=2e4058"></a>
 <img align = "center" src="https://user-images.githubusercontent.com/77670138/137580081-a28dc3c4-036e-4e84-88fb-8c2e99a194a1.gif" style="width:280px;height:200px;"></img>    
-[![Rudradeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudradeep7&theme=nord&border_radius=100)](https://github.com/rudradeep7/rudradeep7)
+[![Rudradeep's github activity graph](https://activity-graph.herokuapp.com/graph?username=rudradeep7&border_radius=100)](https://github.com/rudradeep7/rudradeep7)
 </div>
 </br>
 
