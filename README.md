@@ -22,7 +22,7 @@
 
 <h2 align="center"> 📑 Portfolio </h2>
 
-<a href="https://github.com/rudradeep7/All-Patterns-in-One-Program-using-Switch-case-in-C"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=All-Patterns-in-One-Program-using-Switch-case-in-C&theme=yeblu"></a>
+<a href="https://github.com/rudradeep7/All-Patterns-in-One-Program-using-Switch-case-in-C"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=All-Patterns-in-One-Program-using-Switch-case-in-C&border_color=2e4058"></a>
 
 <h3 align = "left"><b>03.</b> All-Patterns-in-One-Program-using-Switch-case-in-C <i>2020</i></h3>
 <h4><i>Project</i></h4>
@@ -31,7 +31,7 @@
 <br>
 <br/>
 <h2 align="center"></h2>
-<a href="https://github.com/rudradeep7/Sqlite_database"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=Sqlite_database&theme=algolia"></a>
+<a href="https://github.com/rudradeep7/Sqlite_database"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=Sqlite_database&border_color=2e4058"></a>
 <h3 align = "left"><b>02.</b> Sqlite_database</h3>
 <h4> <i> Keywords : SqLite Database, Android, Java</i></h4>
 <br>
@@ -92,7 +92,13 @@
  [![Gmail](https://img.shields.io/badge/deepparmarrudra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
  <h2 align="center">My Resume📄</h2>
  
- 📄 Resume [CV DEEP PARMAR.docx](https://github.com/rudradeep7/Rudradeep7/files/7531814/CV.DEEP.PARMAR.docx)
+ ### ************************
+ 
+ 📄 Resume [CV DEEP PARMAR](https://github.com/rudradeep7/Rudradeep7/files/7531814/CV.DEEP.PARMAR.docx)
+ 
+ ### ************************
+ 
+ <img align="center" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
  
 <img align = "center" src="https://synergyland.ca/wp-content/uploads/2021/04/mountain-range-footer-01-1536x161.png" style="width:1536px;height:75px;"></img>
 
