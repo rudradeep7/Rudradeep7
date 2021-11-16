@@ -1,11 +1,14 @@
 <div align = "center">
 <img align = "center" src="https://synergyland.ca/wp-content/uploads/2021/04/mountain-range-footer-01-1536x161.png" style="width:1536px;height:75px;"></img>
 <h1 align="center">Hi 👋, I'm RudraDeep</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="170px">
+  <br>
   
-![](https://komarev.com/ghpvc/?username=Rudradeep7&label=PROFILE+VIEWS&color=41B883)
-![GitHub followers](https://img.shields.io/github/followers/Rudradeep7?style=social)
-[![Years Badge](https://badges.pufler.dev/years/Rudradeep7?color=0d98ba)](https://badges.pufler.dev)
-![GitHub Repo stars](https://img.shields.io/github/stars/Rudradeep7/Rudradeep7?style=social)
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/rudradeep7/count.svg)
+
 </div>
 
 <h4 align="center">Android Developer</h4>
