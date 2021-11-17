@@ -22,17 +22,27 @@
 
 <h2 align="center"> 📑 Portfolio </h2>
 
+<a href="https://github.com/rudradeep7/DFS-BFS-Implementation-In-One-Program-Using-Switch-Case"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=DFS-BFS-Implementation-In-One-Program-Using-Switch-Case&border_color=2e4058"></a>
+
+<h3 align = "left"><b>03.</b> DFS-BFS-Implementation-In-One-Program-Using-Switch-Case <i>2021</i></h3>
+<h4><i>Project</i></h4>
+<b>Technologies :</b> C, Stack, Queue <br>
+<b>Project Difficulties level :</b> Medium<br>
+<b>Discription :</b>In Depth First Search(DFS), Breadth First Search(BFS) Implementation In One Program Using Switch Case I am Using an Simple And Efficient Code of DFS-BFS Implementation
+<br>
+<h2 align="center"></h2>
+
 <a href="https://github.com/rudradeep7/All-Patterns-in-One-Program-using-Switch-case-in-C"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=All-Patterns-in-One-Program-using-Switch-case-in-C&border_color=2e4058"></a>
 
-<h3 align = "left"><b>03.</b> All-Patterns-in-One-Program-using-Switch-case-in-C <i>2020</i></h3>
+<h3 align = "left"><b>02.</b> All-Patterns-in-One-Program-using-Switch-case-in-C <i>2021</i></h3>
 <h4><i>Project</i></h4>
 <b>Technologies :</b> C <br>
 <b>Project Difficulties level :</b> Advance
 <br>
-<br/>
+
 <h2 align="center"></h2>
 <a href="https://github.com/rudradeep7/Sqlite_database"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rudradeep7&repo=Sqlite_database&border_color=2e4058"></a>
-<h3 align = "left"><b>02.</b> Sqlite_database</h3>
+<h3 align = "left"><b>01.</b> Sqlite_database</h3>
 <h4> <i> Keywords : SqLite Database, Android, Java</i></h4>
 <br>
 <br>
